@@ -1,0 +1,19 @@
+{
+  "name": "TermiDroid Pro — Mobile Linux Terminal",
+  "short_name": "TermiDroid",
+  "description": "Offline, mobile-first Linux terminal with persistent virtual filesystem, nano editor, and touch keybar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%23000'/%3E%3Ctext x='70' y='350' font-family='monospace' font-size='230' fill='%2358ff7a'%3E%3E_%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
